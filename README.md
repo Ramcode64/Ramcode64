@@ -1,5 +1,5 @@
 - 👨🏻‍💻 I’m a self-taught developer from **Bangalore,India**
-- ❤ Passionate about **front-end development**, **Jamstack**, **Next.js, TailwindCSS & prisma**
+- ❤ Passionate about **Full stack development**, **Web dev, **Next.js, TailwindCSS & prisma**
 - 🌱 Re-learning **React**, wanting to learn **Go-lang**
 - ✨ Highly interested in products **Madebygoogle** & **Apple**
 - 💼 Currently working on sprucing up my GitHub and building small projects for my portfolio
